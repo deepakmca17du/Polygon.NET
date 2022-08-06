@@ -1,0 +1,15 @@
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\bin\Debug\net6.0\PolygonConsoleApplication.exe
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\bin\Debug\net6.0\PolygonConsoleApplication.deps.json
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\bin\Debug\net6.0\PolygonConsoleApplication.runtimeconfig.json
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\bin\Debug\net6.0\PolygonConsoleApplication.dll
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\bin\Debug\net6.0\PolygonConsoleApplication.pdb
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.csproj.AssemblyReference.cache
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.AssemblyInfoInputs.cache
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.AssemblyInfo.cs
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.dll
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\refint\PolygonConsoleApplication.dll
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.pdb
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\PolygonConsoleApplication.genruntimeconfig.cache
+C:\Self\App\PolygonConsoleApplication\PolygonConsoleApplication\obj\Debug\net6.0\ref\PolygonConsoleApplication.dll
